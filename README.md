@@ -1,4 +1,4 @@
-# Minecraft-Console-Client-by-Woo v1.0
+# Minecraft Console Client by Woo v1.0
 Console Client for Minecraft Game
 --------------------------------------------------
 EN: After downloading the ConsoleClient file, you can learn how to use it by reading the READ-ME file suitable for your language.      
